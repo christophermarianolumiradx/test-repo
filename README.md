@@ -1,2 +1,2 @@
 # test-repo
-This is the first commit
+Lorem ipsum dolor sit amet, consectetur adipiscing elit
